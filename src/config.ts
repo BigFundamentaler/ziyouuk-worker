@@ -1,0 +1,1 @@
+export const AllowedProdOrigins = ['https://ziyou.uk','ziyouuk-pages.pages.dev']
